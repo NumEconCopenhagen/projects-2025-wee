@@ -1,8 +1,8 @@
-# [Group name]
+# [WEE]
 
 **Group members:**
 - Emil Skriver 
-- William Loklint
+- William Loklindt
 - Emil Poulsen
 
 **This repository contains:***
