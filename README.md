@@ -1,9 +1,9 @@
 # [Group name]
 
 **Group members:**
-- A
-- B
-- C
+- Emil Skriver 
+- William Loklint
+- Emil Poulsen
 
 **This repository contains:***
 
